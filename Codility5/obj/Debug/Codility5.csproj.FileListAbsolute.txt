@@ -1,0 +1,7 @@
+C:\Users\pizy\source\repos\Codility5\Codility5\obj\Debug\Codility5.csproj.CoreCompileInputs.cache
+C:\Users\pizy\source\repos\Codility5\Codility5\bin\Debug\Codility5.exe.config
+C:\Users\pizy\source\repos\Codility5\Codility5\bin\Debug\Codility5.exe
+C:\Users\pizy\source\repos\Codility5\Codility5\bin\Debug\Codility5.pdb
+C:\Users\pizy\source\repos\Codility5\Codility5\obj\Debug\Codility5.exe
+C:\Users\pizy\source\repos\Codility5\Codility5\obj\Debug\Codility5.pdb
+C:\Users\pizy\source\repos\Codility5\Codility5\obj\Debug\Codility5.csprojAssemblyReference.cache
