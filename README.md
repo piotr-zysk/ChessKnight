@@ -1,0 +1,1 @@
+"# ChessKnight shortes path calculation" 
