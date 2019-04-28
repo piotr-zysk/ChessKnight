@@ -1,1 +1,1 @@
-"# ChessKnight shortes path calculation" 
+"# ChessKnight shortest path calculation" 
